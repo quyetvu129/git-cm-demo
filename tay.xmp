@@ -27,7 +27,7 @@
    crs:HueAdjustmentAqua="0"
    crs:HueAdjustmentBlue="+10"
    crs:HueAdjustmentPurple="0"
-   crs:HueAdjustmentMagenta="0"
+   crs:HueAdjustmentMagenta="0"acs
    crs:SaturationAdjustmentRed="+21"
    crs:SaturationAdjustmentOrange="-11"
    crs:SaturationAdjustmentYellow="-3"
